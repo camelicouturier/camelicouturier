@@ -1,4 +1,4 @@
-# camelicouturierlogogif
+# camelicouturier
 
 README
 
